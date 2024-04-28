@@ -115,9 +115,10 @@ body {
     overflow: hidden;
 }
 
-.game-name h4 {
+.game-name h2 {
     background-color: yellow;
     color: #0c0f1e;
+    font-size: 22px; 
 }
 
 blockquote {
