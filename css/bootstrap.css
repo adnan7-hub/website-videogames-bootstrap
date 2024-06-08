@@ -189,13 +189,15 @@ span {
 
 /* subscribe-start */
 .subscribe {
-    background-color: yellow;
+    background-color: rgb(255, 215, 0);
 }
 
 .subscribe input[type="text"] {
     border: none;
     outline: none;
     border-bottom: 1px solid #fff;
+    background-color: transparent;
+    color: #fff;
 }
 
 input::placeholder {
@@ -208,7 +210,7 @@ input[type="text"]:focus {
 
 input[type="submit"] {
     background-color: #0c0f1e;
-    color: yellow ;
+    color: rgb(255, 215, 0);
 }
 /* subscribe-end */
 /* footer-start */
