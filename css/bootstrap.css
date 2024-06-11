@@ -198,6 +198,7 @@ span {
     border-bottom: 1px solid #fff;
     background-color: rgb(255, 215, 0);
     color: #fff;
+    width: 100%;
 }
 
 input::placeholder {
