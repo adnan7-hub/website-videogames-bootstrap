@@ -133,7 +133,7 @@ span {
     background-color: rgb(255, 215, 0);
     color: #0c0f1e;
 }
-/* best-games-end */
+/* best-games-end */ 
 
 /* advertise-start */
 .group-advertise :is(svg , .pc-game) {
@@ -198,7 +198,7 @@ span {
     border-bottom: 1px solid #fff;
     background-color: rgb(255, 215, 0);
     color: #fff;
-    width: 100%;
+    width: 100%!important;
 }
 
 input::placeholder {
