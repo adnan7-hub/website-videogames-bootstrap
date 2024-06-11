@@ -196,7 +196,7 @@ span {
     border: none;
     outline: none;
     border-bottom: 1px solid #fff;
-    background-color: transparent;
+    background-color: rgb(255, 215, 0);
     color: #fff;
 }
 
