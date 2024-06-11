@@ -25,19 +25,19 @@ body {
 }
 
 .navbar-nav .nav-item .nav-link.active {
-    color: yellow;
+    color: rgb(255, 215, 0);
 }
 
 .navbar-nav .nav-item .nav-link:not(.active):hover {
-    color: yellow;
+    color: rgb(255, 215, 0);
 }
 
 .search {
-    border-left: 1px solid yellow;
+    border-left: 1px solid rgb(255, 215, 0);
 }
 
 .search svg {
-    color: yellow;
+    color: rgb(255, 215, 0);
     
 }
 
@@ -53,20 +53,20 @@ body {
 }
 
 .navbar-toggler[aria-expanded="true"] {
-    border-color: yellow;
-    color: yellow;
+    border-color: rgb(255, 215, 0);
+    color: rgb(255, 215, 0);
 }
 
 /* navbar-end */
 
 .choose-game li {
-    color: yellow;
+    color: rgb(255, 215, 0);
     padding: 0.5rem 1.5rem;
     cursor: pointer;
 }
 
 .choose-game li.active {
-    background-color: yellow;
+    background-color: rgb(255, 215, 0);
     color: #0c0f1e;
 }
 
@@ -107,30 +107,30 @@ body {
 
 /* best-games-start */
 .best-games p {
-    color: yellow;
+    color: rgb(255, 215, 0);
 }
 
 .game-name {
-    border: 2px solid yellow; 
+    border: 2px solid rgb(255, 215, 0); 
     overflow: hidden;
 }
 
 .game-name h2 {
-    background-color: yellow;
+    background-color: rgb(255, 215, 0);
     color: #0c0f1e;
     font-size: 22px; 
 }
 
 blockquote {
-    color: yellow;
+    color: rgb(255, 215, 0);
 }
 
 .price-game {
-    color: yellow;
+    color: rgb(255, 215, 0);
 }
 
 span {
-    background-color: yellow;
+    background-color: rgb(255, 215, 0);
     color: #0c0f1e;
 }
 /* best-games-end */
@@ -234,7 +234,7 @@ input[type="submit"] {
 }
 /* footer-end */
 .main-btn {
-    background-color: yellow!important;
+    background-color: rgb(255, 215, 0)!important;
     color: #0c0f1e!important;
     padding: 0.5rem 1rem!important;
 }
